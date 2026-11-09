@@ -27,7 +27,6 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191581,
-        404473695,
         85633267,
         85685737
     ],
@@ -39,7 +38,6 @@
         {
             "continent_id":102191581,
             "country_id":85633267,
-            "localadmin_id":404473695,
             "region_id":85685737
         }
     ],

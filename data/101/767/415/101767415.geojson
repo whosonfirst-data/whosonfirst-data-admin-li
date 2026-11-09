@@ -233,7 +233,7 @@
     "wd:wordcount":51,
     "wof:belongsto":[
         102191581,
-        404473645,
+        1175612905,
         85633267,
         85685737
     ],
@@ -254,7 +254,7 @@
         {
             "continent_id":102191581,
             "country_id":85633267,
-            "localadmin_id":404473645,
+            "localadmin_id":1175612905,
             "locality_id":101767415,
             "region_id":85685737
         }
@@ -265,7 +265,7 @@
     ],
     "wof:lastmodified":1690938529,
     "wof:name":"Eschen",
-    "wof:parent_id":404473645,
+    "wof:parent_id":1175612905,
     "wof:placetype":"locality",
     "wof:population":4008,
     "wof:population_rank":4,
