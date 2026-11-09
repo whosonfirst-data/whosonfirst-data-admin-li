@@ -42,7 +42,7 @@
         "gn:id":10352441
     },
     "wof:country":"LI",
-    "wof:geomhash":"782af58567e36c863d92ff2fdb760d98",
+    "wof:geomhash":"43165e98fb834ed5030a5bc23446aebf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     9.54598,
     47.12497000000001
 ],
-  "geometry": {"coordinates":[9.54598,47.12497000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.54598,47.12497],"type":"Point"}
 }

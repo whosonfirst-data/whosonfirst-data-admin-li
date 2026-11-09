@@ -72,7 +72,7 @@
         "wk:page":"Schaanwald"
     },
     "wof:country":"LI",
-    "wof:geomhash":"1647185d1aaaf7fdabeac3915dd65ae7",
+    "wof:geomhash":"ee19416206209e6cae66bc8bef1c54ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     9.5624,
     47.21187000000001
 ],
-  "geometry": {"coordinates":[9.5624,47.21187000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.5624,47.21187],"type":"Point"}
 }
